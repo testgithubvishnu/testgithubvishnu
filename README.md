@@ -5,6 +5,16 @@
 	</a>
 </p>
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+I am an undergraduate Computer science and Engineering student at M.S.Bidve Engineering College,Latur. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Web designing, Android development, and digital marketing**
+- 🌱 I’m currently learning ...
+  - DSA in Java
+  - React js
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif" margine-b="10"/>
 
@@ -19,7 +29,6 @@
 
 - 📫 How to reach me **akshatamanale2106@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/safety/go?url=https%3A%2F%2Fakshatamanale211.hackerresume.io%2Faaea7c3a-1b4a-4427-9f7e-573f3f4d037c&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-YTJlYTRlZjMtZGVlYi00NjU2LWI4MGYtZmFjZGI3YzQzMzIyXzAxMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B6Kkzs9DkR12gG6OJ%2B9VQ5A%3D%3D](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fakshatamanale211.hackerresume.io%2Faaea7c3a-1b4a-4427-9f7e-573f3f4d037c&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-YTJlYTRlZjMtZGVlYi00NjU2LWI4MGYtZmFjZGI3YzQzMzIyXzAxMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B6Kkzs9DkR12gG6OJ%2B9VQ5A%3D%3D)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
