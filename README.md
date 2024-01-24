@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Akshata Manale</h1>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+To+My+Profile!;Computer+Science+Student;Full+Stack+Web+Developer;Programmer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+To+My+Profile!;Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Programmer;DSA%20|%20Web%20Development%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at M.S.Bidve Engineering College,Latur. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+I am an undergraduate Computer science and Engineering student at M.S.Bidve Engineering College,Latur. C, C++, Python, Javascript, HTML, and Java are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Web designing, Data Structure And Problem Solving**
 - 🌱 I’m currently learning ...
-  - DSA in Java
+  - Web Development
+  - DSA With Java
   - React js
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
