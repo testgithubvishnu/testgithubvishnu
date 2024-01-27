@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshata Manale</h1>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+To+My+Profile!;Full+Stack+Web+Developer;Computer+Science+Engineering+Student;Programmer;DSA%20|%20Web%20Development%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+To+My+Profile!;Full+Stack+Web+Developer;Computer+Science+Student;Programmer;DSA%20|%20Web%20Development%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
