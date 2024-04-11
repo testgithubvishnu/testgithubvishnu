@@ -1,3 +1,6 @@
+<video  width="320" height="240"  width="400" >
+	<source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/coding-4895193-4127324.mp4" type="video/mp4">
+</video>
 <h1 align="center">Hi 👋, I'm Akshata Manale</h1>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
